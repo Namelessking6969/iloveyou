@@ -1,2 +1,2 @@
-const audio = new Audio("/Music/music.mp3")
+const audio = new Audio("music.mp3")
 audio.play()
