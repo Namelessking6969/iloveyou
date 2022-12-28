@@ -1,8 +1,10 @@
-var img =
-document.createElement("img")  
+<script>
+    let anniversayDat=new Date():
+    anniversayDate.setFullYear(2022,12,16);
+    let today = new date();
+    let yearsTogether = 
+    today.getFullYear() -
+    anniversayDate.getFullYear();
 
-img.src = "image.png";
-var src = 
-document.getElementById("x")
-
-src.appendChild(img);
+    alert('We have been married for ${yearsTogether} years!');
+</script>
