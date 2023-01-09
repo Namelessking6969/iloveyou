@@ -4,7 +4,7 @@ function addPicture(src) {
     document.body.appendChild(img);
   }
   
-  addPicture("image1.jpg");
+  addPicture("");
   addPicture("image2.jpg");
   addPicture("image3.jpg");
   
